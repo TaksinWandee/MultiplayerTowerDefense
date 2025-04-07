@@ -1,5 +1,5 @@
 # Border Breaker: The Raider of South
-
+Backup : https://drive.google.com/file/d/1WNeS2kMpV_ztr3cm4bTmTqdawLG5nkZe/view?usp=sharing
 ## รายละเอียดเกมสั้น ๆ
 เกมป้องกันหอคอยป้องกันศัตรูควบคู่ไปกับการบริหารทรัพยากรเงิน โดยสามารถเล่นช่วยกันได้หลายคนคุณจะได้เล่นผู้ตรวจการชายแดนซึ่งคอยสกัดกั้นคนที่จะลักลอบเข้าประเทศอย่างผิดกฏหมาย
 
