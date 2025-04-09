@@ -4,7 +4,7 @@ Backup : https://drive.google.com/file/d/1WNeS2kMpV_ztr3cm4bTmTqdawLG5nkZe/view?
 Build : https://drive.google.com/file/d/1cWR3G5_Ux4-x4B5IlJ8v4UpbQhksui04/view?usp=sharing
 ## รายละเอียดเกมสั้น ๆ
 เกมป้องกันหอคอยป้องกันศัตรูควบคู่ไปกับการบริหารทรัพยากรเงิน โดยสามารถเล่นช่วยกันได้หลายคนคุณจะได้เล่นผู้ตรวจการชายแดนซึ่งคอยสกัดกั้นคนที่จะลักลอบเข้าประเทศอย่างผิดกฏหมาย
-
+![Screenshot 2025-04-09 092514](https://github.com/user-attachments/assets/0bc0f8ba-6114-4fef-98d6-cb1b07717af7)
 ## วิธีการเล่น
 วางหอคอยเพื่อป้องกันศัตรูควบคู่ไปกับการบริหารทรัพยากรเงิน โดยสามารถเล่นช่วยกันได้หลายคน เป้าหมายคือกำจัดศัตรูทั้งหมดก่อนศัตรูจะวิ่งไปถึงเช้นชัย มีวิธีการเล่น ดังนี้:
 
@@ -19,7 +19,6 @@ Build : https://drive.google.com/file/d/1cWR3G5_Ux4-x4B5IlJ8v4UpbQhksui04/view?u
    
 3. คลิกที่ปุ่ม GOLD++ เพื่อเพิ่มทรัพยากรเงินที่ใช้สร้างหอคอย
 
-![Screenshot 2025-04-09 092514](https://github.com/user-attachments/assets/0bc0f8ba-6114-4fef-98d6-cb1b07717af7)
 ![Screenshot 2025-04-09 092523](https://github.com/user-attachments/assets/8ff8796f-8572-4b2c-a75b-3b5de89e5553)
 ![Screenshot 2025-04-09 092556](https://github.com/user-attachments/assets/8682862a-d20c-403e-ac9a-f3cfcf1e38dc)
 
